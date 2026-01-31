@@ -1,6 +1,6 @@
-# Matte Black theme for Omarchy
+# Matte Black theme
 
-A custom dark theme for [Omarchy](https://omarchy.org/), designed to be sleek and modern with a matte black aesthetic.
+A low distraction dark theme for [Omarchy Linux](https://omarchy.org/), VScode, Zed Editor, NeoVim, iterm2, ghostty,... designed to be sleek and modern with a matte black aesthetic.
 
 ![Omarchy Matte Black Theme](./images/matte-black-omarchy.webp)
 
@@ -10,17 +10,15 @@ A custom dark theme for [Omarchy](https://omarchy.org/), designed to be sleek an
 
 ## Installation
 
-The Matte Black theme is now an [official Omarchy theme](https://manuals.omamix.org/2/the-omarchy-manual/52/themes), so it is included in the Omarchy repository. But if you want to install any of the configs and styles manually, you can copy the contents of the config you need into your theme folder in `~/.config/omarchy/themes`.
+The Matte Black theme is now an [official Omarchy theme](https://manuals.omamix.org/2/the-omarchy-manual/52/themes), so it is included Omarchy by default.
 
-<!-- To install the Omarchy Matte Black theme, follow these steps:
+Install the [VScode theme](https://marketplace.visualstudio.com/items?itemName=TahaYVR.matteblack)
 
-1. Download the theme folder named ["matte-black"](./matte-black/) from the repository.
-2. Move the folder to your Omarchy themes directory at: `~/.config/omarchy/themes`
-3. Select the Matte Black theme by toggling themes using the hotkeys:
+Install the [Zed theme](https://zed.dev/extensions/matte-black)
 
-   - `Ctrl + Shift + Super + Space`
+[iterm2](https://iterm2colorschemes.com/)
 
-note: You can also get the [background image](images/1-matte-black.jpg) from the repo and place it in a new folder named "matte-black" in `~/.config/omarchy/backgrounds` to use it as the background for the Matte Black theme. -->
+Matte Black in [NeoVim](https://github.com/tahayvr/matteblack.nvim)
 
 ## Waybar
 
